@@ -4,14 +4,14 @@
     }
     .tieudelienhe {
         text-align: center;
-        color: #FF0;
+        color: rgb(0, 121, 50);
         font-size: 20pt;
     }
-    #gui {
-        color: #ff0000;
+    #ggui {
+        color: #00ab00;
         padding: 20px;
-        font-size: 40pt;
-        background-color: #FF0;
+        font-size: 30pt;
+        background-color: rgb(172, 172, 172);
         border: 0;
-        cursor:col-resize;
+        cursor:pointer;
     }
