@@ -1,0 +1,17 @@
+    /* Phan nay cua trang lien he */
+    .lienhe_wrap {
+        padding: 15px;
+    }
+    .tieudelienhe {
+        text-align: center;
+        color: #FF0;
+        font-size: 20pt;
+    }
+    #gui {
+        color: #ff0000;
+        padding: 20px;
+        font-size: 40pt;
+        background-color: #FF0;
+        border: 0;
+        cursor:col-resize;
+    }
