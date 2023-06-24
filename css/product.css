@@ -72,4 +72,12 @@
       flex: 1;
     }
   }
-  
+    /* Phan nay cua trang lien he */
+    .lienhe_wrap {
+      padding: 15px;
+  }
+  .tieudelienhe {
+      text-align: center;
+      color: rgb(0, 121, 50);
+      font-size: 20pt;
+  }
